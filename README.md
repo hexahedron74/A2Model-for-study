@@ -1,2 +1,3 @@
 # A2Model-for-study
-Discord bot for people. you can use source code.
+This source code is for people who want to study discord.js.
+you can use this sourcecode.

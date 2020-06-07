@@ -1,0 +1,25 @@
+{
+  "name": "a2model-for-study",
+  "version": "1.0.0",
+  "description": "Discord bot for study",
+  "main": "A2MODEL.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "moment": "^2.26.0",
+    "moment-duration-format": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hexahedron74/A2Model-for-study.git"
+  },
+  "author": "Hexahedron74",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hexahedron74/A2Model-for-study/issues"
+  },
+  "homepage": "https://github.com/hexahedron74/A2Model-for-study#readme"
+}
